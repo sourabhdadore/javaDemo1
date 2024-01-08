@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Project 1 time table view -->
+    <table border cellpadding="16px">  
+        <thead>
+            <tr>
+                <th colspan="8">
+                    Time table
+                </th>
+            </tr>
+            <tr>
+                <th>Day/lec</th>
+                <th>lecture<br/>09:00 - 09:30</th>
+                <th>Lecture<br/>09:00 - 09:30</th>
+                <th>Lecture<br/>09:00 - 09:30</th>
+                <th rowspan="5">Lunch<br/>09:00 - 09:30</th>
+                <th>Lecture<br/>09:00 - 09:30</th>
+                <th>Lecture<br/>09:00 - 09:30</th>
+                
+            </tr>
+        </thead>
+        <!-- table body -->
+        <tbody>
+            <tr>
+                <td>Monday</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Saturday</td>
+                <td></td>
+                <td></td>
+                <td ></td>
+                <td colspan="4" >no lecture</td>
+            </tr>
+           
+           
+
+
+        </tbody>
+    </table>
+</body>
+</html>
